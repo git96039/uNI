@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/kalyan/IdeaProjects/Demo6"><classes><class name="Unicreds.ContactUs_UniCreds_Fields"><methods><include name="User"/></methods></class><class name="Unicreds.Verify_all_Links"><methods><include name="allLinks"/></methods></class><class name="Unicreds.Verify_mandatery_fields"><methods><include name="mandatery"/></methods></class></classes></test></suite>
